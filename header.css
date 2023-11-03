@@ -1,0 +1,29 @@
+.header-link{
+    display: inline-block;
+    margin: 20px;
+    
+
+}
+
+a{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+
+ul{
+background-color:darkslategrey;
+text-align: center;
+text-transform: uppercase;
+
+
+}
+header:hover{
+    color: aquamarine;
+
+}
+    
+
+
+    

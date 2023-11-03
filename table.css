@@ -1,0 +1,27 @@
+.cell {
+    border: black solid 1px;
+padding: 2px;
+color: blue;
+
+
+}
+
+div{
+    margin: 20px;
+}
+
+
+.row-1{
+    border-top: none;
+}
+
+.column-1{
+    border-left: none;
+}
+.row-3{
+    border-bottom: none;
+}
+
+.column-3{
+    border-right: none;
+}
